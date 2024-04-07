@@ -1,0 +1,19 @@
+.contactBox {
+    border: 1px solid black;
+    border-radius: 4px;
+    display: flex;
+    width: 200px;
+    height: 70px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    height: 20px;
+}
+
+.icon {
+    margin-right: 5px;
+}
